@@ -42,51 +42,31 @@
     ]
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "Instituto Tecnologico Superior de Uruapan",
+    "area": "Ingenenieria en Sistemas Computacionales",
+    "studyType": "Equivalent to a Bachelor in Computer Science",
+    "startDate": "2001-09-01",
+    "endDate": "2007-03-31"
   }],
   "awards": [{
-    "title": "Award",
+    "title": "Valedictorian",
     "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
+    "awarder": "Instituto Superior de Uruapan"
   }],
   "languages": [{
-    "language": "English",
+    "language": "Spanish",
     "fluency": "Native speaker"
-  }],
+  },
+               {
+                   "language": "English",
+                   "fluency": "Fluent"
+               }],
   "interests": [{
-    "name": "Wildlife",
+    "": "Reading",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Science Fiction",
+      "Fantasy",
+        "History", "Fiction"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
   }]
 }
